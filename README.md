@@ -1,1 +1,2 @@
 # Tic-Tac-Toe-Game
+This project is a basic implementation of the Tic-Tac-Toe game using Java. It allows two players to take turns marking 'X' or 'O' on a 3x3 grid. The game checks for a winner after each move, declaring a victory when a player aligns three of their marks horizontally, vertically, or diagonally. It also handles tie scenarios when all spaces are filled without a winner. Ideal for those learning the basics of Java, including loops, conditionals, and user input handling.
